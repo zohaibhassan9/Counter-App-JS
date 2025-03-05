@@ -22,3 +22,24 @@ resetBtn.addEventListener('click', ()=>{
     count = 0;
     counter.textContent = count;
 })
+// const counterBtn = document.getElementById('counter');
+// const increaseBtn = document.getElementById('increase');
+// const decreaseBtn = document.getElementById('decrease');
+// const resetBtn = document.getElementById('reset');
+
+
+// let count  = 0;
+
+// increaseBtn.addEventListner('click', ()=>{
+//     count++;
+//     counterBtn.textContent = count;
+// });
+// decreaseBtn.addEventListner('click', ()=>{
+//     count--;
+//     counterBtn.textContent = count;
+// });
+
+// resetBtn.addEventListner('click', ()=>{
+//     count = 0;
+//     counterBtn.textContent = count;
+// });
